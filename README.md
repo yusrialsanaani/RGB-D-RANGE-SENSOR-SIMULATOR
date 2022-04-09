@@ -1,17 +1,21 @@
 # Machine Vision: RGB-D-RANGE-SENSOR-SIMULATOR
-This is a simulation for RGB-D Range Sensor using Matlab
+This is a simulation for RGB-D Range Sensor using Matlab.
+
 # Part 1: Textured point cloud
 The virtual plane and the corresponding HSV color space were created as shwon in the figure belwo:
+
 ![image](https://user-images.githubusercontent.com/89004966/162563729-50ced937-f292-4b3c-839d-490e2a37145c.png)
 
 More information provided in the report.
 
 The generated 3D point cloud is distributed in 3D model corresponding to actual shape of virtual plan as shown below:
+
 ![image](https://user-images.githubusercontent.com/89004966/162563734-cd9b9432-2276-4578-a7d0-2c5dd5135f3d.png)
 
 
 # Part 2: Cartesian depth map
-The generated depth map image represents the front view of our virtual scene as shown in figure below. So, we can see the crests and troughs of the scene according to the gray level variation. The crest is darker corresponding to decreasing in depth where trough is lighter gray corresponding to increasing in depth.
+The generated depth map image represents the front view of our virtual scene as shown in figure below. So, we can see the crests and troughs of the scene according to the gray level variation.
+
 ![Output_Type_2_Cartesian_Depth_Map](https://user-images.githubusercontent.com/89004966/162563824-9cbecc77-9eb5-4e8b-b6fa-bbe5cf070ec3.jpg)
 
 # Part 3: Radial depth map
