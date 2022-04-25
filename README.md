@@ -1,4 +1,4 @@
-# Machine Vision: RGB-D-RANGE-SENSOR-SIMULATOR
+# Machine Vision: RGB-D RANGE SENSOR SIMULATOR
 This is a simulation for RGB-D Range Sensor using Matlab.
 
 # Part 1: Textured point cloud
